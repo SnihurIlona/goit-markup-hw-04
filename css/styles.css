@@ -134,6 +134,7 @@ p{
     padding-bottom: 188px;
 
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
+    background-size: cover;
 }
 
 .caption {
@@ -163,10 +164,6 @@ p{
         letter-spacing: 0.02em;
         color: var(--title-text-color);
         margin-bottom: 8px;
-}
-
-.img-antenna{
-    display: inline-block;
 }
 
 .features-list :not(:last-child){
