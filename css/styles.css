@@ -165,8 +165,8 @@ p{
         margin-bottom: 8px;
 }
 
-.features-list::before{
-    
+.img-antenna{
+    display: inline-block;
 }
 
 .features-list :not(:last-child){
