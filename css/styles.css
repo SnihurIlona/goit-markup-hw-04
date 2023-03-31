@@ -137,6 +137,10 @@ p{
     background-size: cover;
 }
 
+.features-list{
+    display: inline-block;
+}
+
 .caption {
     margin-bottom: 48px;
     margin-left: auto;
