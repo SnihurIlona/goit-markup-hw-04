@@ -171,6 +171,13 @@ p{
     margin-right: 24px;
 }
 
+.features-list::before{
+    content: ;
+    width: 64px;
+    height: 64px;
+    display: inline-block;
+}
+
 .section-features{
     display: flex;
     gap: 24px;
