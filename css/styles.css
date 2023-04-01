@@ -271,8 +271,11 @@ p{
     text-align: center;
 }
 
-.icon-list{
+.icon-info{
     display: flex;
+}
+
+.icon-list{
     width: 40px;
     height: 40px;
     border-radius: 50%;
