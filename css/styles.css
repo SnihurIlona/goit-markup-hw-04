@@ -293,7 +293,7 @@ p{
 
 /* Section 5 */
 
-.header-customers{
+.customers{
     min-width: 183px;
         margin-top: 0;
         margin-left: auto;
@@ -303,16 +303,7 @@ p{
 
 .emblem{
     display: flex;
-}
-
-.emblem-link{
-    display: flex;
     justify-content: center;
-    align-items: center;
-}
-
-.emblem-list{
-    display: flex;
 }
 
 /* Footer */
