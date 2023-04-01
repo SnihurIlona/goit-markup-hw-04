@@ -171,12 +171,6 @@ p{
     margin-right: 24px;
 }
 
-.features-list::before{
-    content:"";
-    height: 64px;
-    display: block;
-}
-
 .section-features{
     display: flex;
     gap: 24px;
