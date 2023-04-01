@@ -291,6 +291,13 @@ p{
 }
 
 
+/* Section 5 */
+
+.emblem{
+    display: flex;
+    
+}
+
 /* Footer */
 
 .footer{
