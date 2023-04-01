@@ -273,6 +273,7 @@ p{
 
 .icon-info{
     display: flex;
+    gap: 24px;
 }
 
 .icon-list{
