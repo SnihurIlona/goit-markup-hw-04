@@ -303,7 +303,16 @@ p{
 
 .emblem{
     display: flex;
+}
 
+.emblem-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.emblem-list{
+    display: flex;
 }
 
 /* Footer */
