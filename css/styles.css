@@ -171,6 +171,14 @@ p{
     margin-right: 24px;
 }
 
+.features-icon{
+    width: 264px;
+    height: 112px;
+    background: #F4F4FD;
+    border-radius: 4px;
+    padding: 24px 100px;
+}
+
 .section-features{
     display: flex;
     gap: 24px;
