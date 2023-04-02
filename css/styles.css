@@ -326,7 +326,7 @@ p{
     fill: #8E8F99;
 }
 
-.icon-emblem:hover, .icon-emblem .icon-link:focus{
+.icon-emblem:hover, .icon-emblem:focus{
     fill: #404BBF;
 }
 
@@ -370,6 +370,10 @@ p{
     letter-spacing: 0.03em;
         text-transform: uppercase;
     color: #F4F4FD;
+}
+
+.footer-nav{
+    display: flex;
 }
 
 /* Buttons */
