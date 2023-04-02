@@ -293,6 +293,11 @@ p{
 
 /* Section 5 */
 
+.section-emblem{
+    padding-top: 120px;
+    padding-bottom: 280px;
+}
+
 .customers{
     min-width: 183px;
         margin-top: 0;
