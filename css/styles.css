@@ -310,6 +310,11 @@ p{
     justify-content: center;
 }
 
+.emblem-list{
+    display: flex;
+}
+
+
 /* Footer */
 
 .footer{
