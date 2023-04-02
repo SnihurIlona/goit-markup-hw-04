@@ -310,21 +310,18 @@ p{
     gap: 24px;
 }
 
-.emblem-list{
-    min-width: 168px;
-    min-height: 88px;
-    padding-top: 16px;
-    padding-bottom: 16px;
-    padding-left: 32px;
-    padding-right: 32px;
+.emblem-img{
+    width: 168px;
+    height: 88px;
+    border: 1px solid #8E8F99;
+    border-radius: 4px;
+    padding: 16px 32px;
 }
 
 .icon-link{
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid #8E8F99;
-    border-radius: 4px;
 }
 
 /* Footer */
