@@ -316,11 +316,14 @@ p{
     border: 1px solid #8E8F99;
     border-radius: 4px;
     padding: 16px 32px;
-    color: #8E8F99;
 }
 
-.emblem-img :hover, .emblem-img :focus{
-    background-color: #404BBF;
+.icon-emblem{
+    background: #8E8F99;
+}
+
+.emblem .icon-link:hover, .emblem .icon-link:focus{
+    background: #404BBF;
 }
 
 .icon-link{
