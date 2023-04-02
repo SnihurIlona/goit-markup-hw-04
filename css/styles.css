@@ -383,6 +383,22 @@ p{
     height: 24px;
     margin-bottom: 16px;
 }
+
+.icon-footer{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        background-color: #4D5AE5;
+}
+
+.icon-footer:hover, .icon-footer:focus{
+    background: #31D0AA;
+}
+
+
 /* Buttons */
 .main-button {
     background-color: #4D5AE5;
