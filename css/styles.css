@@ -310,6 +310,11 @@ p{
     gap: 24px;
 }
 
+.emblem-list{
+    width: 168px;
+    height: 88px;
+}
+
 .icon-link{
     display: flex;
     justify-content: center;
