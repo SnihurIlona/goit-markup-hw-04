@@ -307,11 +307,13 @@ p{
 .emblem{
     display: flex;
     justify-content: center;
+    gap: 24px;
 }
 
 .icon-link{
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 
