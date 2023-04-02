@@ -318,16 +318,21 @@ p{
     padding: 16px 32px;
 }
 
-.emblem-img:hover, .emblem-img:focus{
-    border-color: #404BBF;
-}
+/* .emblem-img:hover, .emblem-img:focus{ */
+    /* border-color: #404BBF; */
+/* } */
 
 .icon-emblem{
     fill: #8E8F99;
 }
 
-.icon-emblem:hover, .icon-emblem .icon-link:focus{
+/* .icon-emblem:hover, .icon-emblem .icon-link:focus{ */
+    /* fill: #404BBF; */
+/* } */
+
+.emblem-img .icon-emblem:hover, .emblem-img .icon-emblem:focus{
     fill: #404BBF;
+    border-color: #404BBF;
 }
 
 .icon-link{
