@@ -254,10 +254,6 @@ p{
     border-radius: 0px 0px 4px 4px;
 }
 
-.team-list:hover{
-    box-shadow: none;
-}
-
 .team-list:not(:last-child){
     margin-right: 24px;
 }
@@ -292,6 +288,10 @@ p{
     height: 40px;
     border-radius: 50%;
     background-color: #4D5AE5;
+}
+
+.icon-list:hover, .icon-list:focus{
+    background: #404BBF;
 }
 
 
