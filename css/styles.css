@@ -309,8 +309,9 @@ p{
     justify-content: center;
 }
 
-.emblem-list{
+.icon-link{
     display: flex;
+    justify-content: center;
 }
 
 
