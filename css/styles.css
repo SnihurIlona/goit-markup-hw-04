@@ -319,11 +319,11 @@ p{
 }
 
 .icon-emblem{
-    background: #8E8F99;
+    fill: #8E8F99;
 }
 
 .emblem .icon-link:hover, .emblem .icon-link:focus{
-    background: #404BBF;
+    fill: #404BBF;
 }
 
 .icon-link{
