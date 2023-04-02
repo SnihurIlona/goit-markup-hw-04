@@ -374,8 +374,15 @@ p{
 
 .footer-nav{
     display: flex;
+    gap: 120px;
 }
 
+.footer-social{
+    color: #FFFFFF;
+    min-width: 96px;
+    height: 24px;
+    margin-bottom: 16px;
+}
 /* Buttons */
 .main-button {
     background-color: #4D5AE5;
