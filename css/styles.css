@@ -323,6 +323,7 @@ p{
 }
 
 .emblem .icon-link:hover, .emblem .icon-link:focus{
+    border-color: #404BBF;
     fill: #404BBF;
 }
 
