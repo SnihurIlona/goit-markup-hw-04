@@ -173,6 +173,7 @@ p{
 
 .icon{
     display: flex;
+    justify-content: center;
     width: 264px;
     height: 112px;
     background: #F4F4FD;
