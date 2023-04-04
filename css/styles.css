@@ -322,6 +322,10 @@ p{
     height: 88px;
 }
 
+.emblem-list:hover, .emblem-list:focus{
+    color: #404BBF;;
+}
+
 .icon-emblem{
     fill: #8E8F99;
 }
