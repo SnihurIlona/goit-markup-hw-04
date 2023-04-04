@@ -317,10 +317,6 @@ p{
     gap: 24px;
 }
 
-.emblem-img:hover, .emblem-img:focus{
-    border-color: #404BBF;
-}
-
 .emblem-list{
     width: 168px;
     height: 88px;
@@ -342,8 +338,16 @@ p{
     height: 100%;
     border: 1px solid #8E8F99;
     border-radius: 4px;
+    color: #8E8F99;
 }
 
+.emblem-img{
+    color: currentColor;
+}
+
+.icon-link:hover, .icon-link:focus{
+    color: #404BBF;;
+}
 /* Footer */
 
 .footer{
