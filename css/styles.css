@@ -171,9 +171,12 @@ p{
     margin-right: 24px;
 }
 
-.features-icon{
+.icon{
     width: 264px;
-    height: 112px;
+        height: 112px;
+}
+
+.features-icon{
     background: #F4F4FD;
     border-radius: 4px;
     padding: 24px 100px;
