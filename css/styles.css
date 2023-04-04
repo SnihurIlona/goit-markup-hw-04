@@ -322,6 +322,10 @@ p{
     height: 88px;
 }
 
+.emblem-list:hover, .emblem-list:focus{
+    fill: #404BBF;
+}
+
 .icon-link{
     display: flex;
     justify-content: center;
