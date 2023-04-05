@@ -323,10 +323,6 @@ p{
     height: 88px;
 }
 
-.emblem-list:hover, .emblem-list:focus{
-    fill: #404BBF;
-}
-
 .icon-link{
     display: flex;
     justify-content: center;
@@ -344,6 +340,7 @@ p{
 
 .icon-link:hover, .icon-link:focus{
     fill: #404BBF;
+    border-color: #404BBF;
 }
 /* Footer */
 
